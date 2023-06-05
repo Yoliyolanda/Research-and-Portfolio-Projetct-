@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Newsletter From With Validation | Webdevtrick.com</title>
+<link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="news.css"> 
+</head>
+
+<body>
+  <nav class="navbar">
+    <a href="index.html">
+    <img src="images/logo nm.jpg" class="logo" alt="">
+    </a>
+</nav>
+  <div class="main">
+        <form id="singular-form" action="/subscribe" method="POST">
+            <button class="shown" type="button" id="subs">Subscribe</button>
+            <div id="email-input">
+                <input type="email" placeholder="E-mail" id="email" name="email" required>
+                <button type="button" class="addbut1" disabled="disabled">Add Me</button>
+            </div>
+            <div id="success">Congrats!</div>
+        </form>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script  src="index.js"></script>
+
+</body>
+</html>
