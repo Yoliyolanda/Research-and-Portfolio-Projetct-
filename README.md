@@ -1,4 +1,4 @@
-NurtureMom 
+##NurtureMom 
 
 https://yoliyolanda.github.io/Research-and-Portfolio-Projetct-/public
 
@@ -9,7 +9,7 @@ https://yoliyolanda.github.io/Research-and-Portfolio-Projetct-/public
 This website is about supporting maternal and infant health in Africa through accessible and culturally sensitive postnatal care.
 
 
-Project Inspiration
+##Project Inspiration
 
 NurtureMom was born out of personal experiences and a deep passion for supporting new mothers during the transformative postnatal period. As mothers ourselves, we understand the joys, challenges, and vulnerabilities that come with welcoming a new life into the world.
 The NurtureMom Africa project aims to address the lack of accessible and culturally sensitive postnatal care for new mothers and their infants in Africa. Specifically, the project seeks to provide a platform that offers educational resources, community support, and access to healthcare professionals to improve maternal and infant health outcomes.
