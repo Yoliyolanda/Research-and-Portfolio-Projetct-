@@ -2,8 +2,8 @@
 
 https://yoliyolanda.github.io/Research-and-Portfolio-Projetct-/public
 
-![Landing page](images/landingpage.png)
-![another image](images/landing2.png)
+![Landing page](public/images/landingpage.png)
+![another image](public/images/landing2.png)
 
 This website is about supporting maternal and infant health in Africa through accessible and culturally sensitive postnatal care.
 
