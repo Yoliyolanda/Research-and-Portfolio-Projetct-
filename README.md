@@ -1,6 +1,6 @@
 ## NurtureMom
 
-https://yoliyolanda.github.io/Research-and-Portfolio-Projetct-/public
+https://yoliyolanda.github.io/Research-and-Portfolio-Projetct-/
 
 ![Landing page](public/images/landingpage.png)
 ![another image](public/images/landing2.png)
